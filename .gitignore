@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# Optional: typescript build cache
+*.tsbuildinfo
+
+# Optional: backup files
+*.log
+*.swp
+*.swo
+*.bak
+
+# Optional: Mac folder attributes
+.AppleDouble
+.LSOverride
+
+# Optional: SSH files (for safety, if committed by mistake)
+*.pem
+*.pub
+*.key

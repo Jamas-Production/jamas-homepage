@@ -4,9 +4,9 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Jamas Production',
+  description: 'Jamas Production creates revolutionary software solutions that transform how you work, pay, create, and solve problems. Experience the future today with our complete ecosystem of intelligent applications.',
+  generator: 'jamas.com',
 }
 
 export default function RootLayout({
